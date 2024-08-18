@@ -15,4 +15,3 @@ peticion
         document.body.append(imagen)
     }
     )
-
